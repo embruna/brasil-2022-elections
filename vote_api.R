@@ -198,8 +198,9 @@ Fig1 <- ggplot(cartog_cont) +
   ) +
   labs(
     title = "% Vote for Lula",
-    subtitle = "(state size proportional to total votes cast there)"
+    subtitle = "State size proportional to the number of votes cast there\n(map by @BrunaLab)"
   )
 
 
 Fig1
+
