@@ -204,3 +204,4 @@ Fig1 <- ggplot(cartog_cont) +
 
 Fig1
 
+
